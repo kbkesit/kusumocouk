@@ -1,15 +1,10 @@
 ---
 title: "About Me"
 date: 2019-10-24T19:51:17+07:00
-draft: true
-description: ""
+draft: false
+description: "An introduction of the creator of kusumo.co.uk"
 displayInMenu: true
 displayInList: false
-resources:
-- name: featuredImage
-  src: ""
-  params:
-    description: ""
 ---
 
 ## Who is behind kusumo.co.uk?
