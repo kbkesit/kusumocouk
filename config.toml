@@ -2,6 +2,7 @@ baseURL = "https://kusumo.co.uk"
 languageCode = "en-us"
 title = "Kusumo.co.uk"
 theme = "aether"
+disqusShortname = "kusumo96"
 
 [params]
 brand = "Programmer's Journal"
