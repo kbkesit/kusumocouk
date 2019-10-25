@@ -3,9 +3,10 @@ languageCode = "en-us"
 title = "Kusumo.co.uk"
 theme = "aether"
 disqusShortname = "kusumo96"
+googleAnalytics = "UA-112010525-2"
 
 [params]
-brand = "Programmer's Journal"
+brand = "Programmer's Note"
 description = "just a personal blog related to compsci"
 rssinmenu = true
 bgimg= "/images/tile-background-1.jpg"
