@@ -79,6 +79,6 @@ Did you find it? If not, see both **display_info** method included in two parent
 
 Okay there's one problem spotted now. Are there other issues regarding multiple inheritance? Well, usually when the program becomes bigger and much more complex, it'll be harder to mantain. Therefore you should avoid use multimple inheritance if possible - there are many other approaches (eg. composition).
 
-Alright... I think this is enough for today's post. I'll see in the next post, so stay tuned.
+Alright... I think this is enough for today's post. I'll see you in the next post, so stay tuned.
 
 **K.Kusumo**
