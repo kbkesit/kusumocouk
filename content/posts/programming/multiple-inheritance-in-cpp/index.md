@@ -23,7 +23,7 @@ Multiple inheritance is one of the feature in object oriented programming langua
 
 Well, let's consider there are two parent classes and one child class, named Person, Employee, and Teacher respectively. Therefore, we can assume that Teacher is a Person and at the same time Teacher is also an Employee. To be clear, see the diagram and source code below.
 
-{{<smallimg src="multiple-inheritance-diagram-example.png" alt="A big beautiful smile" width="250px">}}
+{{<smallimg src="multiple-inheritance-diagram-example.png" alt="Multiple Inheritance Diagram Example" width="250px">}}
 
 ```c++
 #include <string>
