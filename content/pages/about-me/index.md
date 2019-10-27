@@ -9,6 +9,8 @@ displayInList: false
 
 ## Who is behind kusumo.co.uk?
 
+{{<smallimg src="kesit_budi kusumo_jakarta.jpg" smartfloat="right" alt="Kesit Budi Kusumo" width="250px">}}
+
 Well, if you are curious, I'll tell you.
 My full name is Kesit Budi Kusumo. You can call me either Kesit or Kusumo.
 
