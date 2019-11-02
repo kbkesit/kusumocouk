@@ -13,7 +13,7 @@ resources:
     description: "git fatal protocol https is not supported"
 ---
 
-Today, I got an error stating "Git: Fatal Protocol 'Https' Is Not Supported" while I was trying to clone this blog repository from github to my Windows local machine. It's made me really confused! because I had double-checked it.
+Today, I got an error stating "Git: Fatal Protocol 'Https' Is Not Supported" while I was trying to clone this blog repository from github to my Windows local machine. So, what I was trying to do was double-checking the command and it still didn't work.
 
 Fortunately, I found a solution to this problem on stackoverflow. Therefore I want to share this to you in this blog. See, for more detail: <https://stackoverflow.com/questions/53988638/git-fatal-protocol-https-is-not-supported/55324351>.
 
